@@ -22,9 +22,6 @@ RECOMMENDED MODULES
 -------------------
 - Eget nunc 
 - Scelerisque viverra mauris 
-- Vulputate enim 
-- This is a new line
-- Porttitor lacus
 
 INSTALLATION
 ------------
